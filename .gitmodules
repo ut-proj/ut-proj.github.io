@@ -1,4 +1,4 @@
 [submodule "book"]
 	path = book
-	url = git@github.com:cnbbooks/lfe-music-programming.git
+	url = https://github.com/cnbbooks/lfe-music-programming.git
 	branch = main
